@@ -1,0 +1,32 @@
+body {
+background-color: black !important;
+/* min-height: 600vh; */
+
+}
+.asideNav
+{
+  list-style: none;
+  cursor: pointer;
+  max-height: 100vh;
+
+
+}
+.asideNav a 
+{
+  text-decoration: none;
+  
+}
+
+.asideNav li:hover{
+  background-color:  black;
+}
+
+
+.myCard
+{
+  opacity: .5 ;
+}
+.myCard:hover
+{
+  opacity: 1 ;
+}
